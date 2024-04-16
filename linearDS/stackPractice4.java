@@ -1,4 +1,6 @@
-package linearDS_06Practice;
+package linearDS;
+
+// stackPractice4
 // 두 문자열 비교
 // 단, #은 backspace 로 바로 이전의 문자를 삭제하는 기능이라고 가정
 

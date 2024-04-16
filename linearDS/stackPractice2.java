@@ -1,4 +1,6 @@
-package linearDS_06Practice;
+package linearDS
+
+// stackPractice2
 //괄호 짝 검사
 
 // 입출력 예시

@@ -1,5 +1,6 @@
-package linearDS_06Practice;
+package linearDS;
 
+// stackPractice3
 // 후위표기법 연산
 // 참고 설명) 전위/중위/후위 표기법
 

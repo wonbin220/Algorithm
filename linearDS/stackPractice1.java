@@ -1,6 +1,6 @@
-package linearDS_06Practice;
+package linearDS
 
-// Practice1
+// stackPractice1
 // 문자열 뒤집기
 
 // 입출력 예시
